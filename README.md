@@ -66,7 +66,7 @@ A **Python Tkinter GUI app** to generate payroll pay period schedules with holid
 
 ## Screenshots
 
-![Sample Payroll Calendar Output](sample_output.png)
+![Sample Payroll Calendar Output](Payroll_Calendar_Dates/Sample_Output.png)
 
 
 This helps payroll teams proactively manage pay dates around holidays and weekends, reducing errors and ensuring timely payments.
